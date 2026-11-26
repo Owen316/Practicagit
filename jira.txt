@@ -19,6 +19,6 @@ hardware:
 Portatil
 Monitor
 Mouse
-Impresora POS
+ecualizador
 Auriculares
 parlantes
