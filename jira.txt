@@ -8,3 +8,9 @@ Manzana
 Pera
 Platanito
 Aguacate
+
+Colores:
+Amarillo
+Azul
+Rojo
+La bandera colombiana
