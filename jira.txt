@@ -14,3 +14,8 @@ Amarillo
 Azul
 Rojo
 La bandera colombiana
+
+hardware:
+Portatil
+Monitor
+Mouse
